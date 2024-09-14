@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+a+Code+Ninja!;I+Love+Open+Source+❤️;Always+Hacking+Something+New+🔧)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hacker Animation" width="300"/>
+![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
