@@ -4,6 +4,10 @@
 
 ![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/hasnocool/hasnocool/blob/main/github-contribution-grid-snake-dark.svg)
+
 ## 🔧 Technologies & Tools
 
 ![Languages](https://skillicons.dev/icons?i=python,java,javascript,go,rust,c,cpp,cs,html,css,bash&theme=dark)
@@ -35,10 +39,6 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/hasnocool/hasnocool/blob/main/github-contribution-grid-snake-dark.svg)
 
 ## 💻 Hack the Planet!
 
