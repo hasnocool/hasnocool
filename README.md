@@ -45,14 +45,12 @@
 ## 🚀 Quests for the Shrubbery of Doom
 
 <!--START_SECTION:projects-->
-
-War Thunder Camouflage Installer: A Rust-based desktop application for easily browsing, searching, and installing custom vehicle camouflages in War Thunder. Featuring an intuitive interface and seamless integration, it's the ultimate tool for Knights who want to blend in with the shrubbery on the battlefield.
-TradingView Pine Scripts: A Python script that automates the extraction of PineScript codes from the most popular strategies on TradingView. Uses Selenium for web navigation and BeautifulSoup for data scraping. Perfect for Knights who want to conquer the stock market with the power of 'Ni!'.
-TradingView Script Downloader: Another Python masterpiece that automates the extraction of PineScript codes from TradingView's most popular strategies. It's like the Holy Grail of trading algorithms, but easier to find.
-Project Ni: A revolutionary AI that only says 'Ni!'. Surprisingly effective in pentesting and confusing enemy knights.
-Shrubbery Blockchain: Decentralized shrubbery trading. The Knights' favorite way to acquire rare and exotic shrubberies.
-Holy Hand Grenade of Antioch API: RESTful API for counting to 3 (not 5) and launching. Essential for any quest involving killer rabbits.
-
+* [War Thunder Camouflage Installer](https://github.com/hasnocool/war_thunder_camouflage_installer): A Rust-based desktop application for easily browsing, searching, and installing custom vehicle camouflages in War Thunder. Featuring an intuitive interface and seamless integration, it's the ultimate tool for Knights who want to blend in with the shrubbery on the battlefield.
+* [TradingView Pine Scripts](https://github.com/hasnocool/tradingview-pine-scripts): A Python script that automates the extraction of PineScript codes from the most popular strategies on TradingView. Uses Selenium for web navigation and BeautifulSoup for data scraping. Perfect for Knights who want to conquer the stock market with the power of 'Ni!'.
+* [TradingView Script Downloader](https://github.com/hasnocool/tradingview-script-downloader): Another Python masterpiece that automates the extraction of PineScript codes from TradingView's most popular strategies. It's like the Holy Grail of trading algorithms, but easier to find.
+* [Project Ni](https://github.com/hasnocool/project-ni): A revolutionary AI that only says 'Ni!'. Surprisingly effective in pentesting and confusing enemy knights.
+* [Shrubbery Blockchain](https://github.com/hasnocool/shrubbery-blockchain): Decentralized shrubbery trading. The Knights' favorite way to acquire rare and exotic shrubberies.
+* [Holy Hand Grenade of Antioch API](https://github.com/hasnocool/holy-hand-grenade-api): RESTful API for counting to 3 (not 5) and launching. Essential for any quest involving killer rabbits.
 <!--END_SECTION:projects-->
 
 ---
