@@ -80,10 +80,12 @@ python3 overthrow_society.py --with-silly-walks
 ```
 
 ## 🐱 Sir Whiskers of the Round Terminal
+![IMG_1077](https://github.com/user-attachments/assets/a6ddb966-8b2e-4256-b321-b15dddf2d900)
+![IMG_1233](https://github.com/user-attachments/assets/9d140d4a-9733-4f63-bc0f-727e0151cd2d)
+![IMG_4101](https://github.com/user-attachments/assets/e2640dce-f675-4c9f-abad-ba3f21f077fb)
 
-![Whiskers the Hacker Cat](https://your-image-url.com/cat.png)
 
-*This is Sir Whiskers, Guardian of the Holy Keyboard. He demands shrubberies and can smell evil corporations from miles away.*
+*This is Sir Chihuahuas, Guardian of the Holy Keyboard. He demands shrubberies and can smell evil corporations from miles away.*
 
 ## 🎯 Sacred Quests for the Holy Grail (2023 Edition)
 
