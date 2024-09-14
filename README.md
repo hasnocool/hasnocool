@@ -1,29 +1,33 @@
 <div align="center">
 
-# 💻 Welcome to hasnocool's Hacker Haven 🐱‍💻
+# 🐍 The Knights Who Say 'Ni!' Present: hasnocool's Cyberdeck of Chaos 🖥️
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=Hey%2C+I'm+a+Code+Ninja!;I+Love+Open+Source+❤️;Always+Hacking+Something+New+🔧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=We+are+fsociety;We+demand+a+shrubbery!;Hello+friend.+Hello+friend?;Ni!+Ni!+Ni!+Ni!)](https://git.io/typing-svg)
 
 ![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
-## 🐍 Contribution Snake
+## 🌳 The Sacred Shrubbery of Contributions
 
 <img src="https://github.com/hasnocool/hasnocool/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
+*"We are now... no longer the Knights who say 'Ni!'. We are now the Knights who say 'Ekki-ekki-ekki-ekki-PTANG. Zoom-Boing. Z'nourrwringmm.'"*
+
 ---
 
-## 🔧 Technologies & Tools
+## 🔧 Weapons of Mass Debugging (That Cost Precisely 2 Shrubberies)
 
 ![Languages](https://skillicons.dev/icons?i=python,java,javascript,go,rust,c,cpp,cs,html,css,bash&theme=dark)
 ![Frameworks](https://skillicons.dev/icons?i=react,vue,angular,django,flask,spring,nodejs,express&theme=dark)
 ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark)
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark)
 
+*"Our chief weapon is surprise... surprise and fear... fear and surprise... Our two weapons are fear and surprise... and ruthless efficiency... Our three weapons are fear, surprise, and ruthless efficiency... and an almost fanatical devotion to Python... Our four... no... Amongst our weapons..."*
+
 ---
 
-## 📈 GitHub Stats
+## 📈 The Ministry of Silly Hacks
 
 <a href="https://github.com/hasnocool">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnocool&show_icons=true&theme=chartreuse-dark&hide_border=true" />
@@ -32,30 +36,33 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnocool&theme=chartreuse-dark&hide_border=true" />
 </a>
 
+*"I am Mr. Robot. Or perhaps I'm only in your head. We are fsociety, we are finally free, we are finally awake!"*
+
 ---
 </div>
 <div align="left">
 
-## 🚀 Latest Projects
+## 🚀 Quests for the Shrubbery of Doom
 
 <!--START_SECTION:projects-->
-- [Project Name 1](https://github.com/hasnocool/project1): Brief description.
-- [Project Name 2](https://github.com/hasnocool/project2): Brief description.
-- [Project Name 3](https://github.com/hasnocool/project3): Brief description.
+- [Project Ni](https://github.com/hasnocool/project-ni): A revolutionary AI that only says 'Ni!'. Surprisingly effective in pentesting.
+- [Shrubbery Blockchain](https://github.com/hasnocool/shrubbery-blockchain): Decentralized shrubbery trading. The Knights' favorite.
+- [Holy Hand Grenade of Antioch API](https://github.com/hasnocool/holy-hand-grenade-api): RESTful API for counting to 3 (not 5) and launching. 
 <!--END_SECTION:projects-->
-
 
 ---
 
-## 📰 Latest Blog Posts
+## 📰 Scrolls of Wisdom (Or Ramblings of a Mad Hacker)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Dynamic content: Latest blog posts from an RSS feed -->
 <!-- BLOG-POST-LIST:END -->
 
+*"I've never found it hard to hack most people. If you listen to them, watch them, their vulnerabilities are like a neon sign screwed into their heads."*
+
 ---
 
-## 📊 Weekly Development Breakdown
+## 📊 Weekly Silly Walks Through The Matrix
 
 <!--START_SECTION:waka-->
 <!-- Dynamic content: Coding activity breakdown using WakaTime -->
@@ -63,120 +70,61 @@
 
 ---
 
-## 💻 Hack the Planet!
+## 💻 Summon the Knights of 'Ni!' (and fsociety)
 
 ```bash
-echo "Hello, world! 🌍"
-# Keep coding and stay curious!
-
-
-```bash
-echo "Hello, world! 🌍"
-# Keep coding and stay curious!
+echo "We are fsociety, we are finally free, we are finally awake!"
+sudo apt-get install shrubbery
+python3 overthrow_society.py --with-silly-walks
+# Remember: Always use a VPN when overthrowing society. Or fetching shrubberies.
 ```
 
+## 🐱 Sir Whiskers of the Round Terminal
 
-### 📝 Instructions
+![Whiskers the Hacker Cat](https://your-image-url.com/cat.png)
 
-- **Replace Placeholders**: Update the following placeholders with your actual information:
-  - `YourLinkedInUsername` with your LinkedIn username.
-  - `YourTwitterHandle` with your Twitter handle.
-  - `YourDomain.com` with your personal website domain.
-  - `YourEmail@example.com` with your email address.
+*This is Sir Whiskers, Guardian of the Holy Keyboard. He demands shrubberies and can smell evil corporations from miles away.*
 
-- **Dynamic Sections**: The sections marked with `<!-- ... -->` are placeholders for dynamic content that can be updated automatically using GitHub Actions or other tools.
+## 🎯 Sacred Quests for the Holy Grail (2023 Edition)
 
-- **Set Up Dynamic Content**:
+- Find the source code of the Matrix (it's probably written in COBOL)
+- Develop an AI that can fetch its own shrubberies
+- Overthrow capitalism with a series of elaborately choreographed silly walks
+- Hack the planet... but only if the planet consents
 
-  - **Typing SVG Animation**: The typing animation at the top uses [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg). You can customize the messages by modifying the URL parameters.
-
-  - **GitHub Stats**: The GitHub stats and streak stats are generated by [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) and [GitHub Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats). They update automatically.
-
-  - **Skill Icons**: The technology icons are from [skillicons.dev](https://skillicons.dev/).
-
-  - **Contribution Snake**: The snake animation requires setting up a GitHub Actions workflow. Refer to the [Platane/snk](https://github.com/Platane/snk) repository for setup instructions.
-
-  - **Weekly Development Breakdown**: If you use [WakaTime](https://wakatime.com/), you can display your coding activity by setting up the [waka-readme](https://github.com/athul/waka-readme) action.
-
-  - **Latest Blog Posts**: If you have a blog with an RSS feed, you can use the [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) to update this section automatically.
-
-  - **Latest Projects**: You can automate this section using GitHub Actions or manually list your top projects.
-
-- **Connect with Me**: Make sure to update your social links and contact information.
-
-- **Fun Fact**: Feel free to change the fun fact to something you find interesting.
-
-### ⚠️ Notes
-
-- **GitHub Actions**: Ensure that GitHub Actions are enabled for your repository. You might need to adjust permissions in your repository settings.
-
-- **Security**: Do not commit any sensitive information or secrets to your repository. Use GitHub Secrets if needed.
-
-- **Branch Protection Rules**: If you have branch protection rules, make sure they allow GitHub Actions to push changes if you're using workflows that modify your repository.
-
-### 📢 Need Help?
-
-If you need assistance setting up any of the dynamic content or GitHub Actions workflows, feel free to ask!
-
----
-
-## 🐾 Meet My Coding Companion
-
-![My Cat](https://your-image-url.com/cat.png)
-
-*This is Whiskers, who loves to nap on my keyboard while I code!*
-
-## 🎯 Goals for 2023
-
-- Contribute to 5 major open-source projects.
-- Develop an AI-based application.
-- Write a technical blog series on cybersecurity.
-
-## 🐙
+## 🐙 The OctoCat Who Says 'Ni!'
 
 <img src="https://github.com/hasnocool/hasnocool/blob/main/octocat-spinner.gif" alt="Spinning Octocat" width="100"/>
 
-## 🗣️ Quote of the Day
+## 🗣️ Wisdom of the Eldest Knights
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 😂 Random Dev Joke
+## 😂 Jest Overflow
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
-
-## 🧮 Overall Stats
+## 🧮 The Abacus of Doom
 
 ![Hasnocool's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnocool&theme=radical)
 
-
-## 🚀 Deployment Status
+## 🚀 Current Quest Status (Approved by the Knights Who Say 'Ni!')
 
 ![CI/CD](https://github.com/hasnocool/your-project/workflows/CI/badge.svg)
 
-## 🛡️ License
+## 🛡️ Scroll of Protection (Against Rabbits and Corporations)
 
 ![License](https://img.shields.io/github/license/hasnocool/hasnocool)
 
+## 💡 Illuminating Facts (That May or May Not Exist)
 
-Enjoy customizing your new, dynamic `README.md`! 🚀
-
-<!--
-Keywords: Python, JavaScript, Open Source, Developer, Backend, Frontend, Full Stack, DevOps, Cloud Computing
-Description: Experienced developer specializing in full-stack development and cloud solutions.
--->
-
-## 💡 Fun Facts
-
-- 🌌 I love stargazing and astrophotography.
-- 🎮 Avid gamer: currently playing **Cyberpunk 2077**.
-- 📚 Favorite Book: *The Pragmatic Programmer* by Andy Hunt and Dave Thomas.
-
+- 🌌 I once hacked NASA to prove the moon landing was real... or was it?
+- 🎮 Currently playing: "Shrubbery Simulator 2023" (it's more exciting than it sounds)
+- 📚 Favorite Tome of Knowledge: "To 'Ni!' or Not to 'Ni!': A Hacker's Guide to Existential Questions" by Edward Alderson
 
 ---
-### ✨ Thanks for stopping by!
+### ✨ Thanks for braving this silly, chaotic place!
 
-*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+*"We are fsociety, we are finally free, we are finally awake! (And we demand a shrubbery!)"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hasnocool&color=blueviolet)
-
