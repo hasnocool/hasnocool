@@ -45,9 +45,14 @@
 ## 🚀 Quests for the Shrubbery of Doom
 
 <!--START_SECTION:projects-->
-- [Project Ni](https://github.com/hasnocool/project-ni): A revolutionary AI that only says 'Ni!'. Surprisingly effective in pentesting.
-- [Shrubbery Blockchain](https://github.com/hasnocool/shrubbery-blockchain): Decentralized shrubbery trading. The Knights' favorite.
-- [Holy Hand Grenade of Antioch API](https://github.com/hasnocool/holy-hand-grenade-api): RESTful API for counting to 3 (not 5) and launching. 
+
+War Thunder Camouflage Installer: A Rust-based desktop application for easily browsing, searching, and installing custom vehicle camouflages in War Thunder. Featuring an intuitive interface and seamless integration, it's the ultimate tool for Knights who want to blend in with the shrubbery on the battlefield.
+TradingView Pine Scripts: A Python script that automates the extraction of PineScript codes from the most popular strategies on TradingView. Uses Selenium for web navigation and BeautifulSoup for data scraping. Perfect for Knights who want to conquer the stock market with the power of 'Ni!'.
+TradingView Script Downloader: Another Python masterpiece that automates the extraction of PineScript codes from TradingView's most popular strategies. It's like the Holy Grail of trading algorithms, but easier to find.
+Project Ni: A revolutionary AI that only says 'Ni!'. Surprisingly effective in pentesting and confusing enemy knights.
+Shrubbery Blockchain: Decentralized shrubbery trading. The Knights' favorite way to acquire rare and exotic shrubberies.
+Holy Hand Grenade of Antioch API: RESTful API for counting to 3 (not 5) and launching. Essential for any quest involving killer rabbits.
+
 <!--END_SECTION:projects-->
 
 ---
@@ -130,3 +135,47 @@ python3 overthrow_society.py --with-silly-walks
 *"We are fsociety, we are finally free, we are finally awake! (And we demand a shrubbery!)"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hasnocool&color=blueviolet)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PLEASE ENSURE ALL THE IMAGES THAT CAN USE THE SAME OR SIMILAR THEMES
+
+
+
+PLEASE UPDATE THE PROJECTS SECTION WITH ```https://github.com/hasnocool/war_thunder_camouflage_installer
+
+The War Thunder Camouflage Installer is a Rust-based desktop application that allows War Thunder players to easily browse, search, and install custom vehicle camouflages. Featuring an intuitive in…
+desktop-application
+image-loading
+game-enhancement
+game-modding
+camouflage
+war-thunder
+rust-application
+ Python  6 Updated yesterday
+
+
+
+https://github.com/hasnocool/tradingview-pine-scripts
+
+This Python script automates the extraction of PineScript codes from the most popular strategies on TradingView, using Selenium for web navigation and BeautifulSoup for data scraping.
+ Python  4  1 GNU General Public License v3.0 Updated on Sep 2, 2023
+
+
+https://github.com/hasnocool/tradingview-script-downloader
+
+This Python script automates the extraction of PineScript codes from the most popular strategies on TradingView, using Selenium for web navigation and BeautifulSoup for data scraping.
+ Python  3 Updated on May 6``
