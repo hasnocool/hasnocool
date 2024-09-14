@@ -12,6 +12,14 @@ jobs:
       - name: Checkout repository content
         uses: actions/checkout@v2
 
+      - name: Set environment variables
+        env:
+          WAKATIME_API_KEY_ENCODED: ${{ secrets.WAKATIME_API_KEY_ENCODED }}
+
+      - name: Install Python dependencies
+        run: |
+          python3 -m pip install requests
+
       - name: Update README with WakaTime stats
         run: |
           python3 scripts/update_wakatime.py
