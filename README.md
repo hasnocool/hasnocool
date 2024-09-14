@@ -33,11 +33,13 @@
 </a>
 
 ---
+</div>
+<div align="left">
 
 ## 🚀 Latest Projects
 
 <!--START_SECTION:projects-->
-<!-- Projects will be listed here dynamically -->
+<!-- Dynamic content: Latest projects from GitHub API -->
 <!--END_SECTION:projects-->
 
 ---
@@ -45,6 +47,7 @@
 ## 📰 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<!-- Dynamic content: Latest blog posts from an RSS feed -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -52,11 +55,17 @@
 ## 📊 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
+<!-- Dynamic content: Coding activity breakdown using WakaTime -->
 <!--END_SECTION:waka-->
 
 ---
 
 ## 💻 Hack the Planet!
+
+```bash
+echo "Hello, world! 🌍"
+# Keep coding and stay curious!
+
 
 ```bash
 echo "Hello, world! 🌍"
