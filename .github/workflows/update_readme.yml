@@ -1,0 +1,21 @@
+name: Update README with Latest Projects
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository content
+        uses: actions/checkout@v2
+
+      - name: Fetch latest projects using GitHub API
+        run: |
+          curl -s https://api.github.com/users/hasnocool/repos?sort=created&per_page=5 > repos.json
+
+      - name: Update README
+        run: |
+          python3 scripts/update_readme.py
