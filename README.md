@@ -26,10 +26,10 @@
 ## 📈 GitHub Stats
 
 <a href="https://github.com/hasnocool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnocool&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnocool&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 </a>
 <a href="https://github.com/hasnocool">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnocool&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnocool&theme=chartreuse-dark&hide_border=true" />
 </a>
 
 ---
