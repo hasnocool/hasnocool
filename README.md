@@ -29,15 +29,25 @@
 
 ## 📈 The Ministry of Silly Hacks
 
+<p>
 <a href="https://github.com/hasnocool">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnocool&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnocool&show_icons=true&theme=chartreuse-dark&hide_border=false" />
 </a>
 <a href="https://github.com/hasnocool">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnocool&theme=chartreuse-dark&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnocool&theme=chartreuse-dark&hide_border=false" />
 </a>
+<p>
 
 *"I am Mr. Robot. Or perhaps I'm only in your head. We are fsociety, we are finally free, we are finally awake!"*
 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnocool&theme=chartreuse_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnocool&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasnocool&theme=chartreuse_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasnocool&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasnocool&theme=chartreuse_dark&utcOffset=8)
 ---
 </div>
 <div align="left">
@@ -74,19 +84,13 @@
 
 ---
 
-## 💻 Summon the Knights of 'Ni!' (and fsociety)
-
-```bash
-echo "We are fsociety, we are finally free, we are finally awake!"
-sudo apt-get install shrubbery
-python3 overthrow_society.py --with-silly-walks
-# Remember: Always use a VPN when overthrowing society. Or fetching shrubberies.
-```
 
 ## 🐱 Sir Whiskers of the Round Terminal
-![IMG_1077](https://github.com/user-attachments/assets/a6ddb966-8b2e-4256-b321-b15dddf2d900)
-![IMG_1233](https://github.com/user-attachments/assets/9d140d4a-9733-4f63-bc0f-727e0151cd2d)
-![IMG_4101](https://github.com/user-attachments/assets/e2640dce-f675-4c9f-abad-ba3f21f077fb)
+
+![theodore](https://github.com/user-attachments/assets/add7ad80-3a64-469c-bf33-5f3b7aa8ce8f)
+![guacamole](https://github.com/user-attachments/assets/cd8f6dd0-be64-4fc7-9233-397b3ce06e61)
+![frills](https://github.com/user-attachments/assets/ef5a9d11-c532-43a8-adeb-d71a607e957d)
+![churro](https://github.com/user-attachments/assets/680df7d6-f174-4fa5-9e39-efd31ad6a7bf)
 
 
 *This is Sir Chihuahuas, Guardian of the Holy Keyboard. He demands shrubberies and can smell evil corporations from miles away.*
@@ -98,21 +102,16 @@ python3 overthrow_society.py --with-silly-walks
 - Overthrow capitalism with a series of elaborately choreographed silly walks
 - Hack the planet... but only if the planet consents
 
-## 🐙 The OctoCat Who Says 'Ni!'
-
-<img src="https://github.com/hasnocool/hasnocool/blob/main/octocat-spinner.gif" alt="Spinning Octocat" width="100"/>
 
 ## 🗣️ Wisdom of the Eldest Knights
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
 
 ## 😂 Jest Overflow
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
 
-## 🧮 The Abacus of Doom
 
-![Hasnocool's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnocool&theme=radical)
 
 ## 🚀 Current Quest Status (Approved by the Knights Who Say 'Ni!')
 
