@@ -37,8 +37,8 @@
 <!--END_SECTION:waka-->
 
 ## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/hasnocool/hasnocool/blob/output/github-contribution-grid-snake.svg)
+https://github.com/hasnocool/hasnocool/blob/main/github-contribution-grid-snake-dark.svg
+![Snake animation](https://github.com/hasnocool/hasnocool/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## 💻 Hack the Planet!
 
