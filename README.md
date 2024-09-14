@@ -121,9 +121,6 @@
 ## 🗣️ Wisdom of the Eldest Knights
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
-
-## 😂 Jest Overflow
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
 
 ### ✨ Thanks for braving this silly, chaotic place!
