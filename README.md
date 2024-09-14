@@ -111,6 +111,10 @@ If you need assistance setting up any of the dynamic content or GitHub Actions w
 Enjoy customizing your new, dynamic `README.md`! 🚀
 
 
-PLEASE INCLUDE LOGIC TO ACCESS GIT PUBLIC API AND ADD MY LATEST PROJECTS
+---
+### ✨ Thanks for stopping by!
 
-WE SHOULD ALSO INCLUDE LOGIC TO GENERATE THE WEEKLY DDEVELOPMENT BREAKDOWN
+*"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hasnocool&color=blueviolet)
+
