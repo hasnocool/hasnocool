@@ -89,7 +89,7 @@
 
 ---
 
-## 🐶 Sir Chihuahuas of the Round Terminal
+## 🐶 Helpful Chihuahuas of the Round Terminal
 ![theodore](https://github.com/user-attachments/assets/a2bdc7d6-d359-445e-bd47-2f19e202304e)
 ![guacamole](https://github.com/user-attachments/assets/51b4547c-4f8e-4f8c-a016-4480356467b9)
 ![frills](https://github.com/user-attachments/assets/ab123659-497e-4ab8-823d-05592b757fd3)
