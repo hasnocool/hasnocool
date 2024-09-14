@@ -23,7 +23,7 @@
 ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark)
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark)
 
-*"Our chief weapon is surprise... surprise and fear... fear and surprise... Our two weapons are fear and surprise... and ruthless efficiency... Our three weapons are fear, surprise, and ruthless efficiency... and an almost fanatical devotion to Python... Our four... no... Amongst our weapons..."*
+*"Our chief weapon is surprise... surprise and fear... and Python, lots of Python... Oh, and perhaps a boomstick!"*
 
 ---
 
@@ -36,10 +36,9 @@
 <a href="https://github.com/hasnocool">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnocool&theme=chartreuse-dark&hide_border=false" />
 </a>
-<p>
+</p>
 
-*"I am Mr. Robot. Or perhaps I'm only in your head. We are fsociety, we are finally free, we are finally awake!"*
-
+*"Good. Bad. I'm the one with the code!"*
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnocool&theme=chartreuse_dark)
 
@@ -48,20 +47,34 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasnocool&theme=chartreuse_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasnocool&theme=chartreuse_dark&utcOffset=8)
+
+## 🗣️ Wisdom of the Eldest Knights
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+
+## 😂 Jest Overflow
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
+
 ---
 </div>
+
 <div align="left">
 
 ## 🚀 Quests for the Shrubbery of Doom
 
 <!--START_SECTION:projects-->
 * [War Thunder Camouflage Installer](https://github.com/hasnocool/war_thunder_camouflage_installer): A Rust-based desktop application for easily browsing, searching, and installing custom vehicle camouflages in War Thunder. Featuring an intuitive interface and seamless integration, it's the ultimate tool for Knights who want to blend in with the shrubbery on the battlefield.
+  * **Tags**: desktop-application, image-loading, game-enhancement, game-modding, camouflage, war-thunder, rust-application
+  * **Updated**: Yesterday
+
 * [TradingView Pine Scripts](https://github.com/hasnocool/tradingview-pine-scripts): A Python script that automates the extraction of PineScript codes from the most popular strategies on TradingView. Uses Selenium for web navigation and BeautifulSoup for data scraping. Perfect for Knights who want to conquer the stock market with the power of 'Ni!'.
+  * **Tags**: Python, automation, pine-script, trading, scraping
+  * **Updated**: Sep 2, 2023
+
 * [TradingView Script Downloader](https://github.com/hasnocool/tradingview-script-downloader): Another Python masterpiece that automates the extraction of PineScript codes from TradingView's most popular strategies. It's like the Holy Grail of trading algorithms, but easier to find.
-## Future Projects
-* [Project Ni](https://github.com/hasnocool/project-ni): A revolutionary AI that only says 'Ni!'. Surprisingly effective in pentesting and confusing enemy knights.
-* [Shrubbery Blockchain](https://github.com/hasnocool/shrubbery-blockchain): Decentralized shrubbery trading. The Knights' favorite way to acquire rare and exotic shrubberies.
-* [Holy Hand Grenade of Antioch API](https://github.com/hasnocool/holy-hand-grenade-api): RESTful API for counting to 3 (not 5) and launching. Essential for any quest involving killer rabbits.
+  * **Tags**: Python, selenium, automation, pine-script
+  * **Updated**: May 6
 <!--END_SECTION:projects-->
 
 ---
@@ -84,16 +97,11 @@
 
 ---
 
+## 🐶 Sir Chihuahuas of the Round Terminal
 
-## 🐱 Sir Whiskers of the Round Terminal
+*This is Sir Chihuahua, alongside Sir Chiweenie and Sir German Shepherd, Guardians of the Holy Keyboard. They demand shrubberies, and much like Ash’s boomstick, they take no prisoners.*
 
-![theodore](https://github.com/user-attachments/assets/add7ad80-3a64-469c-bf33-5f3b7aa8ce8f)
-![guacamole](https://github.com/user-attachments/assets/cd8f6dd0-be64-4fc7-9233-397b3ce06e61)
-![frills](https://github.com/user-attachments/assets/ef5a9d11-c532-43a8-adeb-d71a607e957d)
-![churro](https://github.com/user-attachments/assets/680df7d6-f174-4fa5-9e39-efd31ad6a7bf)
-
-
-*This is Sir Chihuahuas, Guardian of the Holy Keyboard. He demands shrubberies and can smell evil corporations from miles away.*
+*"This is my keyboard... there are many like it, but this one is mine!"*
 
 ## 🎯 Sacred Quests for the Holy Grail (2023 Edition)
 
@@ -102,22 +110,11 @@
 - Overthrow capitalism with a series of elaborately choreographed silly walks
 - Hack the planet... but only if the planet consents
 
-
-## 🗣️ Wisdom of the Eldest Knights
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
-
-## 😂 Jest Overflow
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
-
-
-
 ## 🚀 Current Quest Status (Approved by the Knights Who Say 'Ni!')
 
 ![CI/CD](https://github.com/hasnocool/your-project/workflows/CI/badge.svg)
 
-## 🛡️ Scroll of Protection (Against Rabbits and Corporations)
+## 🛡️ Scroll of Protection (Against Rabbits, Deadites, and Corporations)
 
 ![License](https://img.shields.io/github/license/hasnocool/hasnocool)
 
@@ -128,52 +125,10 @@
 - 📚 Favorite Tome of Knowledge: "To 'Ni!' or Not to 'Ni!': A Hacker's Guide to Existential Questions" by Edward Alderson
 
 ---
+
 ### ✨ Thanks for braving this silly, chaotic place!
 
 *"We are fsociety, we are finally free, we are finally awake! (And we demand a shrubbery!)"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hasnocool&color=blueviolet)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PLEASE ENSURE ALL THE IMAGES THAT CAN USE THE SAME OR SIMILAR THEMES
-
-
-
-PLEASE UPDATE THE PROJECTS SECTION WITH ```https://github.com/hasnocool/war_thunder_camouflage_installer
-
-The War Thunder Camouflage Installer is a Rust-based desktop application that allows War Thunder players to easily browse, search, and install custom vehicle camouflages. Featuring an intuitive in…
-desktop-application
-image-loading
-game-enhancement
-game-modding
-camouflage
-war-thunder
-rust-application
- Python  6 Updated yesterday
-
-
-
-https://github.com/hasnocool/tradingview-pine-scripts
-
-This Python script automates the extraction of PineScript codes from the most popular strategies on TradingView, using Selenium for web navigation and BeautifulSoup for data scraping.
- Python  4  1 GNU General Public License v3.0 Updated on Sep 2, 2023
-
-
-https://github.com/hasnocool/tradingview-script-downloader
-
-This Python script automates the extraction of PineScript codes from the most popular strategies on TradingView, using Selenium for web navigation and BeautifulSoup for data scraping.
- Python  3 Updated on May 6``
