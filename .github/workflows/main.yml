@@ -2,8 +2,8 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
-  workflow_dispatch:
+    - cron: "0 */24 * * *" # Run every 24 hours
+  workflow_dispatch: # Allow manual triggering
   push:
     branches:
       - main
@@ -11,6 +11,10 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Ensure it has permission to push changes
+
     steps:
       # Checkout the repository
       - name: Checkout repository
@@ -38,3 +42,10 @@ jobs:
           file_pattern: '*.svg'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      # Retry push if it fails (optional: for robustness)
+      - name: Retry push on failure
+        if: failure() # Only run this step if the commit and push failed
+        run: |
+          sleep 10 # wait for a moment and retry
+          git push origin main
