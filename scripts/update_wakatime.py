@@ -1,9 +1,17 @@
+import os
+import base64
 import requests
 
-WAKATIME_API_KEY = "your_wakatime_api_key"
+# Decode the obfuscated WakaTime API key from Base64
+encoded_api_key = os.getenv('WAKATIME_API_KEY_ENCODED')
+
+if encoded_api_key:
+    decoded_api_key = base64.b64decode(encoded_api_key).decode('utf-8')
+else:
+    raise ValueError("API key not found. Ensure the WAKATIME_API_KEY_ENCODED is set.")
 
 def get_wakatime_stats():
-    response = requests.get(f"https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={WAKATIME_API_KEY}")
+    response = requests.get(f"https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key={decoded_api_key}")
     return response.json()
 
 def update_readme():
