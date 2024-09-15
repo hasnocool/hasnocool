@@ -6,7 +6,7 @@
 
 ![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
----
+
 
 ## 🌳 The Sacred Shrubbery of Contributions
 
@@ -14,7 +14,7 @@
 
 *"We are now... no longer the Knights who say 'Ni!'. We are now the Knights who say 'Ekki-ekki-ekki-ekki-PTANG. Zoom-Boing. Z'nourrwringmm.'"*
 
----
+
 
 ## 🔧 Weapons of Mass Debugging (That Cost Precisely 2 Shrubberies)
 
@@ -25,7 +25,7 @@
 
 *"Our chief weapon is surprise... surprise and fear... and Python, lots of Python... Oh, and perhaps a boomstick!"*
 
----
+
 
 ## 📈 The Ministry of Silly Hacks
 
@@ -48,7 +48,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasnocool&theme=chartreuse_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasnocool&theme=chartreuse_dark&utcOffset=8)
 
----
+
 </div>
 
 <div align="left">
@@ -69,7 +69,7 @@
   * **Updated**: May 6
 <!--END_SECTION:projects-->
 
----
+
 
 ## 🐶 Helpful Chihuahuas of the Round Terminal
 ![theodore](https://github.com/user-attachments/assets/a2bdc7d6-d359-445e-bd47-2f19e202304e)
