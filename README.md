@@ -17,9 +17,6 @@
 
 *"Our chief weapon is surprise... surprise and fear... and Python, lots of Python... Oh, and perhaps a boomstick!"*
 
-
-
-## 📈 The Ministry of Silly Hacks
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=We+are+fsociety;We+demand+a+shrubbery!;Hello+friend.+Hello+friend?;Ni!+Ni!+Ni!+Ni!)](https://git.io/typing-svg)
 ![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 <p>
