@@ -2,9 +2,8 @@
 
 # 🐍 "Uptime is temporary, but shrubbery 🌳 is forever." 🖥️
 
-##  The Sacred Shrubbery of Contributions
 <img src="https://github.com/hasnocool/hasnocool/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
+The Sacred Shrubbery of Contributions
 
 
 
