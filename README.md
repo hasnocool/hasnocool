@@ -1,8 +1,9 @@
 <div align="center">
 
 # 🐍 "Uptime is temporary, but shrubbery 🌳 is forever." 🖥️
-
+*"Our chief weapon is surprise... surprise and fear... and Python, lots of Python... Oh, and perhaps a boomstick!"*
 <img src="https://github.com/hasnocool/hasnocool/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 The Sacred Shrubbery of Contributions
 
 
@@ -15,7 +16,7 @@ The Sacred Shrubbery of Contributions
 
 🔧 Weapons of Mass Debugging
 
-*"Our chief weapon is surprise... surprise and fear... and Python, lots of Python... Oh, and perhaps a boomstick!"*
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=We+are+fsociety;We+demand+a+shrubbery!;Hello+friend.+Hello+friend?;Ni!+Ni!+Ni!+Ni!)](https://git.io/typing-svg)
 ![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
