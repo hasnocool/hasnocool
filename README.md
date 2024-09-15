@@ -71,24 +71,6 @@
 
 ---
 
-## 📰 Scrolls of Wisdom (Or Ramblings of a Mad Hacker)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Dynamic content: Latest blog posts from an RSS feed -->
-<!-- BLOG-POST-LIST:END -->
-
-*"I've never found it hard to hack most people. If you listen to them, watch them, their vulnerabilities are like a neon sign screwed into their heads."*
-
----
-
-## 📊 Weekly Silly Walks Through The Matrix
-
-<!--START_SECTION:waka-->
-<!-- Dynamic content: Coding activity breakdown using WakaTime -->
-<!--END_SECTION:waka-->
-
----
-
 ## 🐶 Helpful Chihuahuas of the Round Terminal
 ![theodore](https://github.com/user-attachments/assets/a2bdc7d6-d359-445e-bd47-2f19e202304e)
 ![guacamole](https://github.com/user-attachments/assets/51b4547c-4f8e-4f8c-a016-4480356467b9)
@@ -98,19 +80,6 @@
 *This is Sir Chihuahua, alongside Sir Chiweenie and Sir German Shepherd, Guardians of the Holy Keyboard. They demand shrubberies, and much like Ash’s boomstick, they take no prisoners.*
 
 *"This is my keyboard... there are many like it, but this one is mine!"*
-
-## 🎯 Sacred Quests for the Holy Grail (2023 Edition)
-
-- Find the source code of the Matrix (it's probably written in COBOL)
-- Develop an AI that can fetch its own shrubberies
-- Overthrow capitalism with a series of elaborately choreographed silly walks
-- Hack the planet... but only if the planet consents
-
-## 🚀 Current Quest Status (Approved by the Knights Who Say 'Ni!')
-
-![CI/CD](https://github.com/hasnocool/your-project/workflows/CI/badge.svg)
-
-## 🛡️ Scroll of Protection (Against Rabbits, Deadites, and Corporations)
 
 ![License](https://img.shields.io/github/license/hasnocool/hasnocool)
 
