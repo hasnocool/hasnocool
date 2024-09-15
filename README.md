@@ -83,13 +83,6 @@
 
 ![License](https://img.shields.io/github/license/hasnocool/hasnocool)
 
-## 💡 Illuminating Facts (That May or May Not Exist)
-
-- 🌌 I once hacked NASA to prove the moon landing was real... or was it?
-- 🎮 Currently playing: "Shrubbery Simulator 2023" (it's more exciting than it sounds)
-- 📚 Favorite Tome of Knowledge: "To 'Ni!' or Not to 'Ni!': A Hacker's Guide to Existential Questions" by Edward Alderson
-
----
 
 ## 🗣️ Wisdom of the Eldest Knights
 
