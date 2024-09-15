@@ -17,7 +17,7 @@ The Sacred Shrubbery of Contributions
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=We+are+fsociety;We+demand+a+shrubbery!;Hello+friend.+Hello+friend?;Ni!+Ni!+Ni!+Ni!)](https://git.io/typing-svg)
+
 ![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 <p>
 <a href="https://github.com/hasnocool">
@@ -67,6 +67,8 @@ The Sacred Shrubbery of Contributions
 ### ✨ Thanks for braving this silly, chaotic place!
 
 *"We are fsociety, we are finally free, we are finally awake! (And we demand a shrubbery!)"*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=We+are+fsociety;We+demand+a+shrubbery!;Hello+friend.+Hello+friend?;Ni!+Ni!+Ni!+Ni!)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hasnocool&color=blueviolet)
 
