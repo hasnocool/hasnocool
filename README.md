@@ -18,7 +18,6 @@
 
 ---
 
-![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 <p>
 <a href="https://github.com/hasnocool">
