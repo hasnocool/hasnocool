@@ -8,6 +8,7 @@ The Sacred Shrubbery of Contributions
 
 
 
+🔧 Weapons of Mass Debugging
 
 
 ![Languages](https://skillicons.dev/icons?i=python,java,javascript,go,rust,c,cpp,cs,html,css,bash&theme=dark)
@@ -15,7 +16,6 @@ The Sacred Shrubbery of Contributions
 ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark)
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark)
 
-🔧 Weapons of Mass Debugging
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=We+are+fsociety;We+demand+a+shrubbery!;Hello+friend.+Hello+friend?;Ni!+Ni!+Ni!+Ni!)](https://git.io/typing-svg)
 ![Hacker Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
