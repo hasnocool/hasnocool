@@ -7,12 +7,13 @@ The Sacred Shrubbery of Contributions
 
 
 
-## 🔧 Weapons of Mass Debugging (That Cost Precisely 2 Shrubberies)
 
 ![Languages](https://skillicons.dev/icons?i=python,java,javascript,go,rust,c,cpp,cs,html,css,bash&theme=dark)
 ![Frameworks](https://skillicons.dev/icons?i=react,vue,angular,django,flask,spring,nodejs,express&theme=dark)
 ![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark)
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark)
+
+🔧 Weapons of Mass Debugging
 
 *"Our chief weapon is surprise... surprise and fear... and Python, lots of Python... Oh, and perhaps a boomstick!"*
 
