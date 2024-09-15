@@ -5,7 +5,6 @@
 ##  The Sacred Shrubbery of Contributions
 <img src="https://github.com/hasnocool/hasnocool/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-*"We are now... no longer the Knights who say 'Ni!'. We are now the Knights who say 'Ekki-ekki-ekki-ekki-PTANG. Zoom-Boing. Z'nourrwringmm.'"*
 
 
 
