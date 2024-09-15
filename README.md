@@ -43,21 +43,6 @@
 
 <div align="left">
 
-## 🚀 Quests for the Shrubbery of Doom
-
-<!--START_SECTION:projects-->
-* [War Thunder Camouflage Installer](https://github.com/hasnocool/war_thunder_camouflage_installer): A Rust-based desktop application for easily browsing, searching, and installing custom vehicle camouflages in War Thunder. Featuring an intuitive interface and seamless integration, it's the ultimate tool for Knights who want to blend in with the shrubbery on the battlefield.
-  * **Tags**: desktop-application, image-loading, game-enhancement, game-modding, camouflage, war-thunder, rust-application
-  * **Updated**: Yesterday
-
-* [TradingView Pine Scripts](https://github.com/hasnocool/tradingview-pine-scripts): A Python script that automates the extraction of PineScript codes from the most popular strategies on TradingView. Uses Selenium for web navigation and BeautifulSoup for data scraping. Perfect for Knights who want to conquer the stock market with the power of 'Ni!'.
-  * **Tags**: Python, automation, pine-script, trading, scraping
-  * **Updated**: Sep 2, 2023
-
-* [TradingView Script Downloader](https://github.com/hasnocool/tradingview-script-downloader): Another Python masterpiece that automates the extraction of PineScript codes from TradingView's most popular strategies. It's like the Holy Grail of trading algorithms, but easier to find.
-  * **Tags**: Python, selenium, automation, pine-script
-  * **Updated**: May 6
-<!--END_SECTION:projects-->
 
 
 
