@@ -1,49 +1,79 @@
-# Project Title
-**Hasnocool**
-=============================================
+<div align="center">
 
-## Description
-I built this to create a dynamic and informative README.md file that showcases my active GitHub repositories and WakaTime coding statistics! This project is all about experimenting with new technologies, learning from them, and sharing that knowledge with the world.
+# 🐍 "Uptime is temporary, but shrubbery 🌳 is forever." 🖥️
+*"Our chief weapon is surprise... surprise and fear... and Python, lots of Python... Oh, and perhaps a boomstick!"*
 
-## Features
-One cool feature is the ability to automatically update your README.md file with:
+### The Sacred Shrubbery of Contributions
 
-1. **GitHub Repositories**: A list of your active GitHub repositories, including their names, descriptions, and URLs.
-2. **WakaTime Statistics**: Your coding statistics for the last 7 days, broken down by programming language.
+<img src="https://github.com/hasnocool/hasnocool/blob/main/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-## Installation
-To get started, you'll need to have Python 3.x installed on your system. Then, simply clone this repository using:
-```bash
-git clone https://github.com/hasnocool/hasnocool.git
-```
-Next, create a `.env` file in the `scripts` directory with your WakaTime API key encoded in Base64 (see the example below). Finally, install the required dependencies using:
-```bash
-pip install -r requirements.txt
-```
+---
 
-## Usage
-To update your README.md file, simply run the following commands from the project root directory:
-```bash
-python scripts/update_readme.py
-python scripts/update_wakatime.py
-```
-These scripts will fetch and update your GitHub repositories and WakaTime statistics, respectively.
+### 🔧 Weapons of Mass Debugging
 
-**Tips:**
+![Languages](https://skillicons.dev/icons?i=python,java,javascript,go,rust,c,cpp,cs,html,css,bash&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=react,vue,angular,django,flask,spring,nodejs,express&theme=dark)
+![Databases](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis&theme=dark)
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes&theme=dark)
 
-* Make sure to keep your `.env` file secure by not sharing it with anyone.
-* You can customize the appearance of your README.md file by modifying the `README.md` template in this repository.
-* I'm thinking about adding a feature to automatically update your README.md file on a schedule (e.g., daily, weekly). Stay tuned!
+---
 
-## Contributing
-If you'd like to contribute to this project, please fork it and submit a pull request with your changes. I'm always excited to see new ideas and improvements!
 
-## License
-This project is licensed under the MIT License.
+<p>
+<a href="https://github.com/hasnocool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnocool&show_icons=true&theme=chartreuse-dark&hide_border=false" />
+</a>
+<a href="https://github.com/hasnocool">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnocool&theme=chartreuse-dark&hide_border=false" />
+</a>
+</p>
 
-## Tags/Keywords
-* GitHub API
-* WakaTime API
-* README.md generator
-* Dynamic documentation
-* Programming languages statistics
+---
+
+### *"Good. Bad. I'm the one with the code!"*
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnocool&theme=chartreuse_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnocool&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasnocool&theme=chartreuse_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasnocool&theme=chartreuse_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasnocool&theme=chartreuse_dark&utcOffset=8)
+
+---
+
+</div>
+
+<div align="left">
+
+## 🐶 Helpful Chihuahuas of the Round Terminal
+
+![theodore](https://github.com/user-attachments/assets/a2bdc7d6-d359-445e-bd47-2f19e202304e)
+![guacamole](https://github.com/user-attachments/assets/51b4547c-4f8e-4f8c-a016-4480356467b9)
+![frills](https://github.com/user-attachments/assets/ab123659-497e-4ab8-823d-05592b757fd3)
+![churro](https://github.com/user-attachments/assets/ef00e570-909e-42e7-bc8d-b4fdf0a70c17)
+
+*This is Sir Chihuahua, alongside Sir Chiweenie and Sir German Shepherd, Guardians of the Holy Keyboard. They demand shrubberies, and much like Ash’s boomstick, they take no prisoners.*
+
+*"This is my keyboard... there are many like it, but this one is mine!"*
+
+![License](https://img.shields.io/github/license/hasnocool/hasnocool)
+
+---
+
+## 🗣️ Wisdom of the Eldest Knights
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=chartreuse-dark)
+
+---
+
+### ✨ Thanks for braving this silly, chaotic place!
+
+*"We are fsociety, we are finally free, we are finally awake! (And we demand a shrubbery!)"*
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=60&lines=We+are+fsociety;We+demand+a+shrubbery!;Hello+friend.+Hello+friend?;Ni!+Ni!+Ni!+Ni!)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hasnocool&color=blueviolet)
+
+</div>
