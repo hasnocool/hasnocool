@@ -1,24 +1,39 @@
-**Project Summary: Hasnocool**
+Here's the structured summary of your project "Hasnocool":
 
 1. **Project Name:** Hasnocool
-2. **Short Description:** An innovative project that updates a README file with dynamic content from GitHub repositories and WakaTime API.
-3. **Overall Description:** Hasnocool is an experimental project that automates the updating of a README file by fetching data from GitHub repositories and integrating it with WakaTime API statistics. I built this to showcase my passion for combining different technologies and creating unique solutions.
-4. **Main Purpose:** The primary purpose of Hasnocool is to demonstrate how to fetch repository information and integrate it with coding habits data from the WakaTime API, all while keeping the README file up-to-date. This project showcases my enthusiasm for experimentation and innovation in software development.
-5. **Key Technologies:**
-	* Python
-	* JSON
-	* GitHub API
-	* WakaTime API
-6. **Unique Features:**
-	- The ability to update a README file with dynamic content from multiple sources (GitHub repositories and WakaTime API).
-	- Integration of different technologies in a single project, showcasing flexibility and adaptability.
-7. **Future Improvements:**
-	- Expanding the scope to include more data sources, such as other APIs or databases.
-	- Implementing user-friendly interfaces for easier configuration and customization.
-8. **Personal Notes:** I'm incredibly excited about the possibilities that this project opens up, from automating tedious tasks to providing valuable insights into coding habits. One thing I'd love to add in the future is real-time updates based on user preferences!
-9. **GitHub Tags:** hasnocool, README automation, GitHub API integration, WakaTime API usage, Python scripting, JSON parsing, dynamic content generation
+2. **Short Description:** A Python-based project that automates updating README.md files with project and WakaTime statistics.
+3. **Overall Description:**
+The "Hasnocool" project leverages various technologies to create innovative solutions, particularly in the context of software development. At its core, it involves using scripts to update README.md files within a repository by incorporating information about projects and programming languages used over the last 7 days via WakaTime API.
 
-# Extractable Variables
-SHORT_DESCRIPTION = "An innovative project that updates a README file with dynamic content from GitHub repositories and WakaTime API."
-OVERALL_DESCRIPTION = "Hasnocool is an experimental project that automates the updating of a README file by fetching data from GitHub repositories and integrating it with WakaTime API statistics. I built this to showcase my passion for combining different technologies and creating unique solutions."
-GITHUB_TAGS = "hasnocool, README automation, GitHub API integration, WakaTime API usage, Python scripting, JSON parsing, dynamic content generation"
+This process is achieved through two primary Python scripts: `update_readme.py` and `update_wakatime.py`. The former updates the README.md file with project sections based on data from `repos.json`, while the latter fetches WakaTime statistics to display programming language breakdowns within the README.md file. This allows developers to easily visualize their coding habits and productivity metrics.
+4. **Main Purpose:** To automate updating README.md files with relevant information about projects and coding habits, enhancing transparency and self-discovery for software developers.
+5. **Key Technologies:**
+   - Python
+   - JSON
+   - Base64 encoding/decoding
+   - WakaTime API integration
+6. **Unique Features:**
+   - Ability to fetch and display WakaTime statistics in README.md files
+   - Automatic project section updates in README.md based on data from `repos.json`
+7. **Future Improvements:**
+   - Integration with more APIs or services for broader insights
+   - Customization options for how projects are displayed in README.md
+8. **Personal Notes:** "This project started as a personal experiment to automate repetitive tasks but has grown into something that can genuinely help developers visualize their productivity and preferences."
+9. **GitHub Tags:** automation, software development, README generator, WakaTime API, Python scripts, productivity metrics, coding habits.
+10. **Installable Modules:** base64, os, json, requests
+11. **Suggested Folder Names:** scripts, data, repositories, statistics, project_updates
+12. **Root Project Folder Name Suggestions:** Hasnocool, DevTools, READMEUpdater, ProductivityTracker, CodingInsights
+
+# Extracted Variables:
+PROJECT_NAME = "Hasnocool"
+SHORT_DESCRIPTION = "A Python-based project that automates updating README.md files with project and WakaTime statistics."
+OVERALL_DESCRIPTION = "The "Hasnocool" project leverages various technologies to create innovative solutions, particularly in the context of software development. At its core, it involves using scripts to update README.md files within a repository by incorporating information about projects and programming languages used over the last 7 days via WakaTime API. This process is achieved through two primary Python scripts: `update_readme.py` and `update_wakatime.py`. The former updates the README.md file with project sections based on data from `repos.json`, while the latter fetches WakaTime statistics to display programming language breakdowns within the README.md file. This allows developers to easily visualize their coding habits and productivity metrics."
+MAIN_PURPOSE = "To automate updating README.md files with relevant information about projects and coding habits, enhancing transparency and self-discovery for software developers."
+KEY_TECHNOLOGIES = "Python, JSON, Base64 encoding/decoding, WakaTime API integration"
+UNIQUE_FEATURES = "Ability to fetch and display WakaTime statistics in README.md files, Automatic project section updates in README.md based on data from `repos.json`"
+FUTURE_IMPROVEMENTS = "Integration with more APIs or services for broader insights, Customization options for how projects are displayed in README.md"
+PERSONAL_NOTES = ""This project started as a personal experiment to automate repetitive tasks but has grown into something that can genuinely help developers visualize their productivity and preferences.""
+GITHUB_TAGS = "automation, software development, README generator, WakaTime API, Python scripts, productivity metrics, coding habits."
+INSTALLABLE_MODULES = "requests"
+SUGGESTED_FOLDER_NAMES = "scripts, data, repositories, statistics, project_updates"
+ROOT_PROJECT_FOLDER_NAME_SUGGESTIONS = "Hasnocool, DevTools, READMEUpdater, ProductivityTracker, CodingInsights"
