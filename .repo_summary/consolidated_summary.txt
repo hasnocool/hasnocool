@@ -1,0 +1,24 @@
+**Project Summary: Hasnocool**
+
+1. **Project Name:** Hasnocool
+2. **Short Description:** An innovative project that updates a README file with dynamic content from GitHub repositories and WakaTime API.
+3. **Overall Description:** Hasnocool is an experimental project that automates the updating of a README file by fetching data from GitHub repositories and integrating it with WakaTime API statistics. I built this to showcase my passion for combining different technologies and creating unique solutions.
+4. **Main Purpose:** The primary purpose of Hasnocool is to demonstrate how to fetch repository information and integrate it with coding habits data from the WakaTime API, all while keeping the README file up-to-date. This project showcases my enthusiasm for experimentation and innovation in software development.
+5. **Key Technologies:**
+	* Python
+	* JSON
+	* GitHub API
+	* WakaTime API
+6. **Unique Features:**
+	- The ability to update a README file with dynamic content from multiple sources (GitHub repositories and WakaTime API).
+	- Integration of different technologies in a single project, showcasing flexibility and adaptability.
+7. **Future Improvements:**
+	- Expanding the scope to include more data sources, such as other APIs or databases.
+	- Implementing user-friendly interfaces for easier configuration and customization.
+8. **Personal Notes:** I'm incredibly excited about the possibilities that this project opens up, from automating tedious tasks to providing valuable insights into coding habits. One thing I'd love to add in the future is real-time updates based on user preferences!
+9. **GitHub Tags:** hasnocool, README automation, GitHub API integration, WakaTime API usage, Python scripting, JSON parsing, dynamic content generation
+
+# Extractable Variables
+SHORT_DESCRIPTION = "An innovative project that updates a README file with dynamic content from GitHub repositories and WakaTime API."
+OVERALL_DESCRIPTION = "Hasnocool is an experimental project that automates the updating of a README file by fetching data from GitHub repositories and integrating it with WakaTime API statistics. I built this to showcase my passion for combining different technologies and creating unique solutions."
+GITHUB_TAGS = "hasnocool, README automation, GitHub API integration, WakaTime API usage, Python scripting, JSON parsing, dynamic content generation"
